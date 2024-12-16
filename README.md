@@ -1,7 +1,7 @@
 
 # __Djangochat - Realtime chat app__
 
-Our project aims to develop a real-time chat application using Django and Django Channels for WebSocket communication, enabling seamless messaging without page reloads. Key features include user authentication, scalable database schema, and responsive design. Django's authentication system ensures secure user access, while Channels enable real-time messaging. The user interface will be crafted with HTML, CSS, and JavaScript for intuitive experiences.
+Our project aims to develop a real-time chat application using Django and Django Channels for WebSocket communication, enabling seamless messaging without page reloads. Key features include user authentication, scalable database schema, and responsive design. Django's authentication system ensures secure user access, while Channels enable real-time messaging. The user interface will be crafted with HTML, CSS,  for intuitive experiences.
 
 
 ## Authors
