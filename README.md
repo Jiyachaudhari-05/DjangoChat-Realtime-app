@@ -23,13 +23,13 @@ __• A clean and responsive UI interface <br>__
 ## ✨ Features
 
 
-__1.	User Authentication and Authorization__
+__1.	🔐 User Authentication and Authorization__ : Django’s built-in authentication system.
 
-__2.	Improved UI/UX__
+__2.	🎨 Improved UI/UX__ : A clean, responsive interface with HTML, CSS, and Bootstrap.
 
-__3.	Message Features__
+__3.	💬 Real-Time Messaging__ : Send and receive messages without refreshing the browser.
 
-__4.	User Profiles__
+__4.	👤 User Profiles__ : Personalizable profiles with essential user information.
 
 
 
